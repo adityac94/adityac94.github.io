@@ -56,7 +56,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "I have no special talents. I am only passionately curious. ~ <i>Albert Einstein</i>" 
-  - text: "If I have seen further than others, it is by standing upon the shoulders of giants. ~ <i>Issac Newton</i>"
+  - text: "Simplicity is the ultimate sophistication. ~ <i>Leonardo Da Vinci</i>"
 
 #me-img: "/img/jetpacktocat.png"
 
