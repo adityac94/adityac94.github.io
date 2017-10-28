@@ -31,8 +31,8 @@ force-https: True
 lang: "en"
 author: "Aditya Chattopadhyay"
 title: "Aditya Chattopadhyay - Machine Learning Enthusiast"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+description: "My personal webpage :)"
+keywords: "aditya, chattopadhyay, machine learning, deep learning, optimization methods"
 favicon: "/img/favicon.ico"
 
 ################
@@ -56,7 +56,7 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "I have no special talents. I am only passionately curious. ~ <i>Albert Einstein</i>" 
-  - text: "I have no special talents. I am only passionately curious. ~ <i>Albert Einstein</i>"
+  - text: "If I have seen further than others, it is by standing upon the shoulders of giants. ~ <i>Issac Newton</i>"
 
 me-img: "/img/jetpacktocat.png"
 
