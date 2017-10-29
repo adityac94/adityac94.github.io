@@ -139,12 +139,13 @@ based mappers, I got really interested in publicly available big data. With Rob,
 Keep checking for exciting upcoming news. Released [[biorXiv]](https://doi.org/10.1101/191874)."
 
  - image: "/img/timeline/author.jpg"
-    date: "Aug '12 - Aug' 14"
-    description: "~ Qualified for ACM-ICPC Asia Regionals (Amritapuri). <br/>
+   date: "Aug '12 - Aug' 14"
+   description: "~ Qualified for ACM-ICPC Asia Regionals (Amritapuri). <br/>
 ~ Developed a [SQL engine](https://bitbucket.org/adityababiblue1994/mini-dbms) to select, insert, delete and 
 sorting of records using external-merge sort.  <br/>
 ~ Developed a web-app to simultaneously edit or view documents on a cloud server without having to download the 
 files. Implemented a [REST-API](https://github.com/adityac94/Cloud_Docspad)."
+
   - image: "/img/timeline/author.jpg"
     date: "Aug '12 - Aug' 14"
     description: "~ Qualified for ACM-ICPC Asia Regionals (Amritapuri). <br/>
@@ -152,6 +153,7 @@ files. Implemented a [REST-API](https://github.com/adityac94/Cloud_Docspad)."
 sorting of records using external-merge sort.  <br/>
 ~ Developed a web-app to simultaneously edit or view documents on a cloud server without having to download the 
 files. Implemented a [REST-API](https://github.com/adityac94/Cloud_Docspad)."
+
   - image: "/img/timeline/author.jpg"
     date: "Aug '12"
     description: "Embarked on a five year long journey for a dual degree programme at the International 
