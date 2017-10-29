@@ -199,7 +199,7 @@ err-404-img: "/img/labtocat.png"
 
 pages_list:
   About: 'about'
-  CV: '[cv](https://www.google.com)'
+  CV: 'cv'
   Publications: 'publications'
   Timeline: 'timeline'
   Contact: 'contact'
