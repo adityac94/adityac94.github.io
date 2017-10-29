@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "Aditya Chattopadhyay"
-title: "Aditya Chattopadhyay - Machine Learning Enthusiast"
+title: "Aditya Chattopadhyay - ML Enthusiast"
 description: "My personal webpage :)"
 keywords: "aditya, chattopadhyay, machine learning, deep learning, optimization methods"
 favicon: "/img/favicon.ico"
