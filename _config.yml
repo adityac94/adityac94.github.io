@@ -153,14 +153,12 @@ Keep checking for exciting upcoming news. Released [[biorXiv]](https://doi.org/1
     with [Prof Siepel](http://siepellab.labsites.cshl.edu/), presented in [*BioData*](https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=16)."
 
   - image: "/img/back_img_net.jpg"
-    date: "May 2016 - July 2016"
-    description: "I collaborated with [Prof. Adam Siepel](http://siepellab.labsites.cshl.edu/). Learned a lot about probabilistic
-    graphical model. Developed a model for incorporating information from GRO-seq data and RNA-seq data. 
-    Such multimodal analysis has not been explored before."
+    date: "Aug '15 - Aug '16"
+    description: "Worked in the lab of Prof. U Deva Priyakumar on understanding the mysteries of protein unfolding. We discovered a novel mode of interaction through which urea molecules denature proteins which brings us a tiny step closer to solving the puzzle in the grand scheme of things! This work is published in [JACS - 2017](pubs.acs.org/doi/abs/10.1021/jacs.7b05463)"
 
   - image: "/img/timeline/author.jpg"
     date: "Aug '14 - Aug '15"
-    description: "~ Got selected for a 2 months research internship at Centre of Multiscale Theory and 
+    description: "~ Selected for a 2 month research internship at the Centre of Multiscale Theory and 
 Computation, University of Munster in the lab of Prof. Mark Waller. Formulated a project involving machine 
 learning to discern chemical structures from their infra-red spectra. <br/>
 		~ Developed a 3D spinning top game with multiplayer facility in [Unity](https://drive.google.com/file/d/0BzS5KZjihEdybjlfY3pXRTJ2aFk/view?usp=sharing)."
