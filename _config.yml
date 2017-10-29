@@ -162,7 +162,7 @@ learning to discern chemical structures from their infra-red spectra. <br/>
 sorting of records using external-merge sort.  <br/>
 ~ Developed a web-app to simultaneously edit or view documents on a cloud server without having to download the 
 files. Implemented a [REST-API](https://github.com/adityac94/Cloud_Docspad). <br/>
-~ Inspired from the Japanese Anime, Beyblade, developed a 3D spinning top game with multiplayer facility in [Unity](https://drive.google.com/file/d/0BzS5KZjihEdybjlfY3pXRTJ2aFk/view?usp=sharing)."
+~ Inspired from the Japanese Anime, Beyblade, developed a 3D [spinning top game](https://drive.google.com/file/d/0BzS5KZjihEdybjlfY3pXRTJ2aFk/view?usp=sharing) with multiplayer facility in Unity."
 
   - image: "/img/timeline/author.jpg"
     date: "Humble Beginnings..."
