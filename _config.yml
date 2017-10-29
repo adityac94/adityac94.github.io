@@ -131,49 +131,31 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/back_img_net.jpg"
-    date: "June 2017 - Present"
-    description: "Beside working on a cool data structures for [*pufferfish*](https://github.com/COMBINE-lab/pufferfish), de-Bruijn graph 
-based mappers, I got really interested in publicly available big data. With Rob, I am now figuring out this maze of 
-[Sequence Read Archive](https://www.ncbi.nlm.nih.gov/sra), and trying to find meaningful insights from this exponentially increasing public database. 
-Keep checking for exciting upcoming news. Released [[biorXiv]](https://doi.org/10.1101/191874)."
 
-
-  - image: "/img/back_img_net.jpg"
-    date: "March 2017 - May 2017"
-    description: "We worked on a new way for solving the abundance calculation problem for RNA-seq read mapping. 
-    Kallisto and RapMap are not as accurate as you think in special cases, such as discussed
-    [here](https://cgatoxford.wordpress.com/2016/08/17/why-you-should-stop-using-featurecounts-htseq-or-cufflinks2-and-start-using-kallisto-salmon-or-sailfish/).
-    We propose Selective Alignment. Preprinted [[biorXiv]](https://doi.org/10.1101/138800)."
-
-  - image: "/img/back_img_net.jpg"
-    date: "Oct 2016 - Feb 2017"
-    description: "We worked on RNA-seq compression algorithm. Developed a state-of-the-art RNA-seq compression tool,
-    introducing the idea of semi-reference based compression, now published in [*Bioinformatics*](https://doi.org/10.1093/bioinformatics/btx428) now. I also worked on a poster 
-    with [Prof Siepel](http://siepellab.labsites.cshl.edu/), presented in [*BioData*](https://meetings.cshl.edu/meetings.aspx?meet=DATA&year=16)."
-
-  - image: "/img/back_img_net.jpg"
-    date: "Aug '15 - Aug '16"
-    description: "~ Worked in the lab of Prof. U Deva Priyakumar where we tried to understand the mysteries behind protein unfolding using <i>in-silico</i> methods. We discovered a novel mode of interaction through which urea molecules denature proteins which brings us a tiny step closer to solving the puzzle in the grand scheme of things! This work is published in [JACS - 2017](pubs.acs.org/doi/abs/10.1021/jacs.7b05463) <br />
-~ Consistently in Dean's List every semester since Aug '15, which is awarded to the top 15% students in a batch."
 
   - image: "/img/timeline/author.jpg"
-    date: "Aug '14 - Aug '15"
-    description: "~ Selected for a 2 month research internship at the Centre of Multiscale Theory and 
+    date: "Master's Topic Conundrum"
+    description: 
+
+  - image: "/img/timeline/author.jpg"
+    date: "Fledgling Researcher"
+    description: "~ Selected for a summer research internship at the Centre of Multiscale Theory and 
 Computation, University of Munster in the lab of Prof. Mark Waller. Formulated a project involving machine 
 learning to discern chemical structures from their infra-red spectra. <br/>
-		~ Inspired from the Japanese Anime, Beyblade, developed a 3D spinning top game with multiplayer facility in [Unity](https://drive.google.com/file/d/0BzS5KZjihEdybjlfY3pXRTJ2aFk/view?usp=sharing)."
+	~ Worked in the lab of Prof. U Deva Priyakumar where we tried to understand the mysteries behind protein unfolding using <i>in-silico</i> methods. We discovered a novel mode of interaction through which urea molecules denature proteins which brings us a tiny step closer to solving the puzzle in the grand scheme of things! This work is published in [JACS - 2017](pubs.acs.org/doi/abs/10.1021/jacs.7b05463) <br />
+~ Consistently in Dean's List every semester since Aug '15, which is awarded to the top 15% students in a batch."	
 
   - image: "/img/timeline/author.jpg"
-    date: "Aug '12 - Aug' 14"
+    date: "Novice Hacker"
     description: "~ Qualified for ACM-ICPC Asia Regionals (Amritapuri). <br/>
 ~ Developed a [SQL engine](https://bitbucket.org/adityababiblue1994/mini-dbms) to select, insert, delete and 
 sorting of records using external-merge sort.  <br/>
 ~ Developed a web-app to simultaneously edit or view documents on a cloud server without having to download the 
-files. Implemented a [REST-API](https://github.com/adityac94/Cloud_Docspad)."
+files. Implemented a [REST-API](https://github.com/adityac94/Cloud_Docspad).
+~ Inspired from the Japanese Anime, Beyblade, developed a 3D spinning top game with multiplayer facility in [Unity](https://drive.google.com/file/d/0BzS5KZjihEdybjlfY3pXRTJ2aFk/view?usp=sharing)."
 
   - image: "/img/timeline/author.jpg"
-    date: "Aug '12"
+    date: "Humble Beginnings..."
     description: "Embarked on a five year long journey for a dual degree programme at the International 
 Institute of Information Technology (IIIT), Hyderabad [B.Tech in Computer Science & MS in Computational Natural 
 Sciences]. "
