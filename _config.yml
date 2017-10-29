@@ -133,7 +133,7 @@ syntax-highlight: True
 events:
   - image: "/img/timeline/author.jpg"
     date: "Aug '12 - Aug' 14"
-    description: "Qualified for ACM-ICPC Asia Regionals (Amritapuri). Some short-term projects, [mini-DBMS sql engine](https://bitbucket.org/adityababiblue1994/mini-dbms)"
+    description: "- Qualified for ACM-ICPC Asia Regionals (Amritapuri). - [mini-DBMS sql engine](https://bitbucket.org/adityababiblue1994/mini-dbms), - [Cloud-Docspad](https://github.com/adityac94/Cloud_Docspad)"
   - image: "/img/timeline/author.jpg"
     date: "Aug '12"
     description: "Embarked on a five year long journey for a dual degree programme at the International Institute of Information Technology (IIIT), Hyderabad [B.Tech in Computer Science & MS in Computational Natural Sciences]. "
@@ -197,7 +197,7 @@ err-404-img: "/img/labtocat.png"
 
 pages_list:
   About: 'about'
-  #CV: 'cv'
+  CV: 'cv'
   Publications: 'publications'
   Timeline: 'timeline'
   Contact: 'contact'
