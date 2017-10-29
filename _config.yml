@@ -134,8 +134,8 @@ events:
 
 
   - image: "/img/timeline/author.jpg"
-    date: "Master's Topic Conundrum"
-    description: 
+    date: "Thesis Topic Conundrum"
+    description: "~ With a burgeoning interest in machine learning and probability, chose "probabilistic modelling of molecular system trajectories" as the focus of my Master's thesis. Often molecular trajectories are analysed using Markov Chains, which reveal patterns on time-scales much larger than the length of a typical simulation time. However, such methods are limited by a necessity of explicit integration of Newton's equations of motion to generate the trajectory. More efficient sampling techniques exist (variants of Monte-Carlo methods) but these methods lack temporal ordering of trajectory snapshots, precluding the possibility of constructing a transition matrix, which is core to all Markov Chain based methods. I try to address this problem in my thesis by using <i> Expectation Maximization </i> on a hybrid gaussian-boltzman probability density function to learn these temporal dependencies from Monte Carlo simulation data.
 
   - image: "/img/timeline/author.jpg"
     date: "Fledgling Researcher"
@@ -143,15 +143,15 @@ events:
 Computation, University of Munster in the lab of Prof. Mark Waller. Formulated a project involving machine 
 learning to discern chemical structures from their infra-red spectra. <br/>
 	~ Worked in the lab of Prof. U Deva Priyakumar where we tried to understand the mysteries behind protein unfolding using <i>in-silico</i> methods. We discovered a novel mode of interaction through which urea molecules denature proteins which brings us a tiny step closer to solving the puzzle in the grand scheme of things! This work is published in [JACS - 2017](pubs.acs.org/doi/abs/10.1021/jacs.7b05463) <br />
-~ Consistently in Dean's List every semester since Aug '15, which is awarded to the top 15% students in a batch."	
+	~ Consistently in Dean's List every semester since Aug '15, which is awarded to the top 15% students in a batch."	
 
   - image: "/img/timeline/author.jpg"
     date: "Novice Hacker"
     description: "~ Qualified for ACM-ICPC Asia Regionals (Amritapuri). <br/>
-~ Developed a [SQL engine](https://bitbucket.org/adityababiblue1994/mini-dbms) to select, insert, delete and 
+~ Developed a [SQL engine](https://bitbucket.org/adityababiblue1994/mini-dbms) to select, insert, delete and join records in a relational database. Implemented external merge-sort to quickly sort through the records.
 sorting of records using external-merge sort.  <br/>
 ~ Developed a web-app to simultaneously edit or view documents on a cloud server without having to download the 
-files. Implemented a [REST-API](https://github.com/adityac94/Cloud_Docspad).
+files. Implemented a [REST-API](https://github.com/adityac94/Cloud_Docspad). <br/>
 ~ Inspired from the Japanese Anime, Beyblade, developed a 3D spinning top game with multiplayer facility in [Unity](https://drive.google.com/file/d/0BzS5KZjihEdybjlfY3pXRTJ2aFk/view?usp=sharing)."
 
   - image: "/img/timeline/author.jpg"
