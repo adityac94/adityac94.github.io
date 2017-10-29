@@ -140,7 +140,7 @@ events:
     description: "~ With a burgeoning interest in machine learning and probability, I chose "<b>probabilistic modelling of molecular system trajectories</b>" as the focus of my Master's thesis. <br/>
 	~ Often molecular trajectories are analysed using Markov Chains, which reveal patterns on time-scales much larger than the length of a typical simulation time. However, such methods are limited by a necessity of explicit integration of Newton's equations of motion to generate the trajectory. <br />
 	~ More efficient sampling techniques exist (variants of Monte-Carlo methods) but these methods lack temporal ordering of trajectory snapshots, precluding the possibility of constructing a transition matrix, which is core to all Markov Chain based methods. <br />
-	~ In my thesis, I try to address this problem by using <i> Expectation Maximization </i> on a hybrid gaussian-boltzman probability density function to learn these temporal dependencies from Monte Carlo simulation data." <br />
+	~ In my thesis, I try to address this problem by using <i> Expectation Maximization </i> on a hybrid gaussian-boltzman probability density function to learn these temporal dependencies from Monte Carlo simulation data." <br />"
 
   - image: "/img/timeline/author.jpg"
     date: "Fledgling Researcher"
