@@ -158,10 +158,13 @@ Keep checking for exciting upcoming news. Released [[biorXiv]](https://doi.org/1
     graphical model. Developed a model for incorporating information from GRO-seq data and RNA-seq data. 
     Such multimodal analysis has not been explored before."
 
-  - image: "/img/back_img_net.jpg"
-    date: "May 2016"
-    description: "Yayy, I passed my Research Proficiency Examination [[slides]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/hiraksarkar/hiraksarkar.github.io/master/data/RPE_slides.pdf). Honored to have [*Prof Mike Schatz*](http://schatz-lab.org/)(JHU), 
-    [*Prof Adam Siepel*](http://siepellab.labsites.cshl.edu/)(CSHL) and my supervisor Prof. Robert Patro on my committee."
+  - image: "/img/timeline/author.jpg"
+    date: "Aug '12 - Aug' 14"
+    description: "~ Qualified for ACM-ICPC Asia Regionals (Amritapuri). <br/>
+~ Developed a [SQL engine](https://bitbucket.org/adityababiblue1994/mini-dbms) to select, insert, delete and 
+sorting of records using external-merge sort.  <br/>
+~ Developed a web-app to simultaneously edit or view documents on a cloud server without having to download the 
+files. Implemented a [REST-API](https://github.com/adityac94/Cloud_Docspad)."
 
   - image: "/img/timeline/author.jpg"
     date: "Aug '12 - Aug' 14"
