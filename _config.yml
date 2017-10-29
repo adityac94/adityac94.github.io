@@ -163,10 +163,13 @@ Keep checking for exciting upcoming news. Released [[biorXiv]](https://doi.org/1
     description: "Yayy, I passed my Research Proficiency Examination [[slides]](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/hiraksarkar/hiraksarkar.github.io/master/data/RPE_slides.pdf). Honored to have [*Prof Mike Schatz*](http://schatz-lab.org/)(JHU), 
     [*Prof Adam Siepel*](http://siepellab.labsites.cshl.edu/)(CSHL) and my supervisor Prof. Robert Patro on my committee."
 
-  - image: "/img/timeline/combine_lab_logo.png"
-    date: "May 2015 - May 2016"
-    description: "I started working with [*Prof Robert Patro*](http://www.robpatro.com/redesign/), excited, at the end of almost an year we (with my other labmates) developed two
-    tools, [*RapMap*](https://github.com/COMBINE-lab/RapMap/) and [*RapClust*](https://github.com/COMBINE-lab/RapClust)."
+  - image: "/img/timeline/author.jpg"
+    date: "Aug '12 - Aug' 14"
+    description: "~ Qualified for ACM-ICPC Asia Regionals (Amritapuri). <br/>
+~ Developed a [SQL engine](https://bitbucket.org/adityababiblue1994/mini-dbms) to select, insert, delete and 
+sorting of records using external-merge sort.  <br/>
+~ Developed a web-app to simultaneously edit or view documents on a cloud server without having to download the 
+files. Implemented a [REST-API](https://github.com/adityac94/Cloud_Docspad)."
 
   - image: "/img/timeline/author.jpg"
     date: "Aug '12"
