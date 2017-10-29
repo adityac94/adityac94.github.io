@@ -197,8 +197,8 @@ err-404-img: "/img/labtocat.png"
 
 pages_list:
   About: 'about'
-  CV: "https://researchweb.iiit.ac.in/~aditya.c/CV.pdf"
-  Research: 'publications'
+  CV: 'cv'
+  Publications: 'publications'
   Timeline: 'timeline'
   Contact: 'contact'
 
