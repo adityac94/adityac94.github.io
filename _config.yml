@@ -135,7 +135,7 @@ events:
     date: "A New Chapter"
     description: "~ To gain more exposure to core Machine Learning research, I decided to join the Deep Learing lab of Prof. Vineeth N Balasubramanian, at the Indian Institute of Technology (IIT), Hyderabad. <br/> 
 	~ Here, I worked on making these deep learning algorithms more <i>interpretable</i>. This is especially important in risk-critical tasks like Healthcare systems, self-driving cars etc. If we know why the machine does what it does, it would be much easier to have faith in it! <br />
-	~ Our paper on explainability in CNNs using gradient information will appear in the <b>IEEE Winter Conference on Applications of Computer Vision (WACV2018)</b> in the algorithms track.
+	~ Our paper on explainability in CNNs using gradient information will appear in the <b>IEEE Winter Conference on Applications of Computer Vision (WACV2018)</b> in the algorithms track. <br />
 	~ Learnt a lot about optimization methods from Prof. Vineeth, by attending his course on <i> Convex Optimization in Machine Learning </i> at IIT-H."
 
 
