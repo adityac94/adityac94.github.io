@@ -267,5 +267,11 @@
     .timeline>li.timeline-inverted>.timeline-panel {
         padding: 0 100px 20px 20px;
     }
+
+       .timeline .timeline-body {                                     
+          width: 500px;                                                
+         margin-bottom: 0;                                              
+         text-align: justify;                                          
+      } 
 }
 
