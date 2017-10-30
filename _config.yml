@@ -147,7 +147,7 @@ events:
 	~ More efficient sampling techniques exist (variants of Monte-Carlo methods) but these methods lack temporal ordering of trajectory snapshots, precluding the possibility of constructing a transition matrix, which is core to all Markov Chain based methods. <br />
 	~ In my thesis, I try to address this problem by using <i> Expectation Maximization </i> on a hybrid gaussian-boltzman probability density function to learn these temporal dependencies from Monte Carlo simulation data. <br />"
 
-  - image: "/img/timeline/intern.PNG"
+  - image: "/img/timeline/intern.png"
     date: "Fledgling Researcher"
     description: "~ Selected for a summer research internship at the Centre of Multiscale Theory and 
 Computation, University of Munster in the lab of Prof. Mark Waller. Formulated a project involving machine 
