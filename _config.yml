@@ -131,7 +131,7 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/author.jpg"
+  - image: "/img/timeline/iit.png"
     date: "A New Chapter"
     description: "~ To gain more exposure to core Machine Learning research, I decided to join the Deep Learing lab of Prof. Vineeth N Balasubramanian, at the Indian Institute of Technology (IIT), Hyderabad. <br/> 
 	~ Here, I worked on making these deep learning algorithms more <i>interpretable</i>. This is especially important in risk-critical tasks like Healthcare systems, self-driving cars etc. If we know why the machine does what it does, it would be much easier to have faith in it! <br />
@@ -140,7 +140,7 @@ events:
 
 
 
-  - image: "/img/timeline/code.png"
+  - image: "/img/timeline/author.jpg"
     date: "Thesis Topic Conundrum"
     description: "~ With a burgeoning interest in machine learning and probability, I chose <u><b>probabilistic modelling of molecular system trajectories</b></u> as the focus of my Master's thesis. <br/>
 	~ Often molecular trajectories are analysed using Markov Chains, which reveal patterns on time-scales much larger than the length of a typical simulation time. However, such methods are limited by a necessity of explicit integration of Newton's equations of motion to generate the trajectory. <br />
@@ -155,7 +155,7 @@ learning to discern chemical structures from their infra-red spectra. <br/>
 	~ Worked in the lab of Prof. U Deva Priyakumar where we tried to understand the mysteries behind protein unfolding using <i>in-silico</i> methods. We discovered a novel mode of interaction through which urea molecules denature proteins which brings us a tiny step closer to solving the puzzle in the grand scheme of things! This work is published in [JACS - 2017](pubs.acs.org/doi/abs/10.1021/jacs.7b05463) <br />
 	~ Consistently in Dean's List every semester since Aug '15, which is awarded to the top 15% students in a batch."	
 
-  - image: "/img/timeline/iiit.png"
+  - image: "/img/timeline/code.png"
     date: "Novice Hacker"
     description: "~ Qualified for ACM-ICPC Asia Regionals (Amritapuri). <br/>
 ~ Developed a [SQL engine](https://bitbucket.org/adityababiblue1994/mini-dbms) to select, insert, delete and join records in a relational database. Implemented external merge-sort to quickly sort through the records.
