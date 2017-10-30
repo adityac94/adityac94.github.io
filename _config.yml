@@ -140,7 +140,7 @@ events:
 
 
 
-  - image: "/img/timeline/author.jpg"
+  - image: "/img/timeline/pes.png"
     date: "Thesis Topic Conundrum"
     description: "~ With a burgeoning interest in machine learning and probability, I chose <u><b>probabilistic modelling of molecular system trajectories</b></u> as the focus of my Master's thesis. <br/>
 	~ Often molecular trajectories are analysed using Markov Chains, which reveal patterns on time-scales much larger than the length of a typical simulation time. However, such methods are limited by a necessity of explicit integration of Newton's equations of motion to generate the trajectory. <br />
